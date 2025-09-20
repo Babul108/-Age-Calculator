@@ -1,15 +1,14 @@
 # 🎂 Age Calculator
 
-![GitHub stars](https://img.shields.io/github/stars/RAJKAPOOR282/Age-Calculator?style=social)
-![GitHub forks](https://img.shields.io/github/forks/RAJKAPOOR282/Age-Calculator?style=social)
-![GitHub license](https://img.shields.io/github/license/RAJKAPOOR282)
 
-A modern and user-friendly **Age Calculator web application** that calculates your exact age in **years, months, days, hours, minutes, and seconds**, along with a **countdown to your next birthday** and **lifetime milestones**. Perfect for fun, learning, and tracking important dates! 🎉
+A modern<img width="1920" height="1080" alt="Screenshot 2025-09-20 225343" src="https://github.com/user-attachments/assets/d5ee722b-ac22-47f7-98a0-c0c696074048" />
+ and user-friendly **Age Calculator web application** that calculates<img width="1920" height="1080" alt="Screenshot 2025-09-20 225413" src="https://github.com/user-attachments/assets/455fec34-6aba-48c7-adf5-afe98fd1d4ed" />
+ your exact age in **years, months, days, hours, minutes, and seconds**, along with a **countdown to your next birthday** and **lifetime milestones**. Perfect for fun, learning, and tracking important dates! 🎉
 
----
+---An Age Calculator in HTML is a simple web page tool that lets a user enter their date of birth using an input field. With the help of JavaScript, it calculates the user’s current age based on today’s date. The result is displayed directly on the page, usually in years, and can also be extended to show months and days.
 
 ## 🚀 Live Demo
-[Click here to try it](https://rajkapoor282.github.io/Age-Calculator/)
+[Click here to try it](https://babul108.github.io/-Age-Calculator/)
 
 ---
 
@@ -35,4 +34,4 @@ A modern and user-friendly **Age Calculator web application** that calculates yo
 ## 📥 Installation & Usage
 1. Clone the repo:
    ```bash
-   git clone https://github.com/RAJKAPOOR282/Age-Calculator.git
+   git clonehttps://babul108.github.io/-Age-Calculator/
